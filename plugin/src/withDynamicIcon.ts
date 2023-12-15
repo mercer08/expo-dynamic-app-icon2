@@ -29,7 +29,8 @@ const androidFolderNames = [
   "mipmap-xxhdpi",
   "mipmap-xxxhdpi",
 ];
-const androidSize = [162, 108, 216, 324, 432];
+const androidSize = [48, 72, 96, 144, 192];
+// const androidSize = [162, 108, 216, 324, 432];
 
 const iosFolderName = "DynamicAppIcons";
 const iosSize = 60;

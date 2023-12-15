@@ -1,5 +1,5 @@
 {
-  "name": "expo-dynamic-app-icon",
+  "name": "expo-dynamic-app-icon2",
   "version": "1.2.0",
   "description": "Programmatically change the app icon in Expo.",
   "main": "build/index.js",
@@ -22,9 +22,9 @@
     "expo-dynamic-app-icon",
     "ExpoDynamicAppIcon"
   ],
-  "repository": "https://github.com/outsung/expo-dynamic-app-icon",
+  "repository": "https://github.com/mercer08/expo-dynamic-app-icon2",
   "bugs": {
-    "url": "https://github.com/outsung/expo-dynamic-app-icon/issues"
+    "url": "https://github.com/mercer08/expo-dynamic-app-icon2/issues"
   },
   "author": "Junseo Oh <insung9546@gmail.com> (https://github.com/outsung)",
   "license": "MIT",
